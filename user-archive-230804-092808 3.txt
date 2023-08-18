@@ -1,0 +1,80 @@
+All information of Nathan_Wessling stored by SWAPD.
+"Please note that some information associated with the user identifier of Nathan_Wessling has been excluded from this download due to countervailing privacy and legal interests. For more information, please contact support@swapd.co.
+"
+"
+"
+"
+"
+Posts
+topic_title,categories,is_pm,post_raw,post_cooked,like_count,reply_count,url,created_at
+"
+"
+"
+"
+Account
+id,username,created_at,name,last_posted_at,last_seen_at,previous_visit_at,suspended_at,suspended_till,date_of_birth,ip_address,title,locale,registration_ip_address,first_seen_at,location,website,bio_raw,email
+51520,Nathan_Wessling,2023-08-04 09:26:49 UTC,Nathan Wessling,,2023-08-04 09:27:59 UTC,,,,,2601:640:c902:5ed0:5d6:d024:1573:65f9,,en,2601:640:c902:5ed0:5d6:d024:1573:65f9,2023-08-04 09:26:49 UTC,,,,meiwessling01@gmail.com
+"
+"
+"
+"
+External Accounts
+user_provider_name,user_provider_uid,user_last_used,user_info,user_extra
+google_oauth2,117458067277418977554,2023-08-04 09:25:44 UTC,"{""name""=>""Nathan Wessling"", ""email""=>""meiwessling01@gmail.com"", ""image""=>""https://lh3.googleusercontent.com/a/AAcHTteMhczles6gg47bPF5F9EWX_b3GiUMfgocs-kjQgFu1N54=s96-c"", ""last_name""=>""Wessling"", ""first_name""=>""Nathan"", ""email_verified""=>true, ""unverified_email""=>""meiwessling01@gmail.com""}","{""id_token""=>""eyJhbGciOiJSUzI1NiIsImtpZCI6ImZkNDhhNzUxMzhkOWQ0OGYwYWE2MzVlZjU2OWM0ZTE5NmY3YWU4ZDYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIyNjU1NjEwNDg0MTEtOWJlbGFwbmptaWk0ZGZ0NmJnZmVhaTEwZnBqZWI1NWkuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiIyNjU1NjEwNDg0MTEtOWJlbGFwbmptaWk0ZGZ0NmJnZmVhaTEwZnBqZWI1NWkuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTc0NTgwNjcyNzc0MTg5Nzc1NTQiLCJlbWFpbCI6Im1laXdlc3NsaW5nMDFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJxOWRZWV9SakdWejVPSERRdmN4aE9RIiwibmFtZSI6Ik5hdGhhbiBXZXNzbGluZyIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQWNIVHRlTWhjemxlczZnZzQ3YlBGNUY5RVdYX2IzR2lVTWZnb2NzLWtqUWdGdTFONTQ9czk2LWMiLCJnaXZlbl9uYW1lIjoiTmF0aGFuIiwiZmFtaWx5X25hbWUiOiJXZXNzbGluZyIsImxvY2FsZSI6ImVuIiwiaWF0IjoxNjkxMTQxMTQ0LCJleHAiOjE2OTExNDQ3NDR9.cVDu5eznqkbpcUt7R3s1CAiL7AFh3z8RV3p_MJdQXYr8OTbgp7-L10xdwcKiWPVF-Ye2QCCjwYjVCeyVPl2xL6E5f8wxEEQ8ykeDPq5kBM0tS9DOw3OqauTAiBvxvXc-3O6QsMRd0mUhdpozMPfXnXe5SusdLMjfoWJ5dt9kVKaz7BfL_HcBvTgKFYNAIdfFCuq98HN7fIKI1Jsg_KAX0YcWxmoqDqlViSaqbnk2kSVw8_E0JrSUkaMr9lHmLC7ppT-IZ3v3xnrsywpGlaL8w5Mo1fAatnvKU8mzJEMsuRFNDavOl64IhqFnmhtuU6U4tRJB3yyldVgbJbdHn2LZ3Q"", ""raw_info""=>{""sub""=>""117458067277418977554"", ""name""=>""Nathan Wessling"", ""email""=>""meiwessling01@gmail.com"", ""locale""=>""en"", ""picture""=>""https://lh3.googleusercontent.com/a/AAcHTteMhczles6gg47bPF5F9EWX_b3GiUMfgocs-kjQgFu1N54=s96-c"", ""given_name""=>""Nathan"", ""family_name""=>""Wessling"", ""email_verified""=>true}}"
+"
+"
+"
+"
+Statistics
+topics_entered,time_read,days_visited,posts_read_count,likes_given,likes_received,new_since,read_faq,first_post_created_at,post_count,topic_count
+0,0,1,0,0,0,2023-08-04 09:26:49 UTC,,,0,0
+"
+"
+"
+"
+Login
+user_agent,client_ip,seen_at
+"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",2601:640:c902:5ed0:5d6:d024:1573:65f9,2023-08-04 09:26:49 UTC
+"
+"
+"
+"
+Login History
+action,client_ip,user_agent,created_at
+generate,2601:640:c902:5ed0:5d6:d024:1573:65f9,"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",2023-08-04 09:26:49 UTC
+"
+"
+"
+"
+Searches
+term,created_at,ip_address
+"
+"
+"
+"
+Topic Views
+title,viewed_at,ip_address
+"
+"
+"
+"
+Topic Link Clicks
+url,created_at,ip_address
+"
+"
+"
+"
+Profile Views
+username,viewed_at,ip_address
+"
+"
+"
+"
+Actions
+action_type,target_topic_id,target_post_id,acting_user_id,created_at
+"
+"
+"
+"
+History
+action,target_user_id,details,created_at,context,ip_address,email,subject,previous_value,new_value,topic_id,post_id,custom_type,category_id

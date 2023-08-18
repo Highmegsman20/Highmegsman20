@@ -1,0 +1,574 @@
+DateTime,EndDateTime,DeviceId,Aggregation,AppName,AppPublisher
+"8/1/2023 12:00:00 AM +00:00","8/1/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,PREVHOST.EXE,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,"Microsoft To Do: Lists, Tasks & Reminders",Unknown
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/31/2023 12:00:00 AM +00:00","7/31/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Ease of Access Dialog Host,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,iCloud,Unknown
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,MICROSOFTTEAMS,Unknown
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,CREDENTIALUIBROKER.EXE,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Microsoft Sticky Notes,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Adobe Acrobat,Adobe Systems
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/30/2023 12:00:00 AM +00:00","7/30/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/29/2023 12:00:00 AM +00:00","7/29/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/29/2023 12:00:00 AM +00:00","7/29/2023 11:59:59 PM +00:00",,Daily,Microsoft Office,Microsoft Corporation
+"7/29/2023 12:00:00 AM +00:00","7/29/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/29/2023 12:00:00 AM +00:00","7/29/2023 11:59:59 PM +00:00",,Daily,Microsoft Outlook,Microsoft Corporation
+"7/29/2023 12:00:00 AM +00:00","7/29/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/29/2023 12:00:00 AM +00:00","7/29/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/28/2023 12:00:00 AM +00:00","7/28/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/28/2023 12:00:00 AM +00:00","7/28/2023 11:59:59 PM +00:00",,Daily,Microsoft Sticky Notes,Microsoft Corporation
+"7/28/2023 12:00:00 AM +00:00","7/28/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/28/2023 12:00:00 AM +00:00","7/28/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/27/2023 12:00:00 AM +00:00","7/27/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/27/2023 12:00:00 AM +00:00","7/27/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/27/2023 12:00:00 AM +00:00","7/27/2023 11:59:59 PM +00:00",,Daily,Microsoft Teams,Microsoft Corporation
+"7/27/2023 12:00:00 AM +00:00","7/27/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/26/2023 12:00:00 AM +00:00","7/26/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/26/2023 12:00:00 AM +00:00","7/26/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/26/2023 12:00:00 AM +00:00","7/26/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Microsoft Office,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Microsoft Sticky Notes,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,unins000.exe,Unknown
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Get Help,Unknown
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,imazing,digidna
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/25/2023 12:00:00 AM +00:00","7/25/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,Windows Web Experience Pack,Unknown
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/24/2023 12:00:00 AM +00:00","7/24/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,Microsoft To-Do,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,CONSENT.EXE,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,microsoft edge webview2,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,AUTHHOST.EXE,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,PREVHOST.EXE,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,Microsoft Mail and Calendar,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/23/2023 12:00:00 AM +00:00","7/23/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/22/2023 12:00:00 AM +00:00","7/22/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/22/2023 12:00:00 AM +00:00","7/22/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/22/2023 12:00:00 AM +00:00","7/22/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/22/2023 12:00:00 AM +00:00","7/22/2023 11:59:59 PM +00:00",,Daily,MSN App News,Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,Microsoft To-Do,Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/21/2023 12:00:00 AM +00:00","7/21/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/20/2023 12:00:00 AM +00:00","7/20/2023 11:59:59 PM +00:00",,Daily,Microsoft To-Do,Microsoft Corporation
+"7/20/2023 12:00:00 AM +00:00","7/20/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/20/2023 12:00:00 AM +00:00","7/20/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/20/2023 12:00:00 AM +00:00","7/20/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/20/2023 12:00:00 AM +00:00","7/20/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/20/2023 12:00:00 AM +00:00","7/20/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Microsoft To-Do,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Outlook,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Office,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Chrome,google llc
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,MMC.EXE,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Windows Web Experience Pack,Unknown
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,iTunes,Unknown
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Apple TV Preview,Unknown
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,CONSENT.EXE,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,iCloud,Unknown
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/19/2023 12:00:00 AM +00:00","7/19/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft To-Do,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,CREDENTIALUIBROKER.EXE,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,SYSTEMPROPERTIESPROTECTION.EXE,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Web Experience Pack,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Office Click-to-Run,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Feedback Hub,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft 365,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Sound Recorder,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Terminal,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,MSInfo32,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Phone Link,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,foretrust,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Get Help,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Camera,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Quick Assist,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Security,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,"Microsoft To Do: Lists, Tasks & Reminders",Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,microsoft office click-to-run client,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft PowerPoint,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Word,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Change Computer Settings,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Advanced System Settings,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Notepad,Unknown
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,HelpPane,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Access,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,learn.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,dynamics.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,answers.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/18/2023 12:00:00 AM +00:00","7/18/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Office,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Windows Security,Unknown
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Photos,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,RUNDLL32.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Word,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,EASEOFACCESSDIALOG.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,CREDENTIALUIBROKER.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Phone Link,Unknown
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Outlook,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Excel,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,AUTHHOST.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,CONSENT.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,DLLHOST.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,SYSTEMSETTINGSADMINFLOWS.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,PICKERHOST.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft 365,Unknown
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,HELPPANE.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Mail and Calendar,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Get Help,Unknown
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,WINVER.EXE,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,iCloud,Unknown
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Adobe Acrobat,Adobe Systems
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,support.office.com,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,support.office.com,Microsoft Corporation
+"7/17/2023 12:00:00 AM +00:00","7/17/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,Adobe Acrobat,Adobe Systems
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,support.office.com,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/16/2023 12:00:00 AM +00:00","7/16/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Microsoft Word,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,MICROSOFTTEAMS,Unknown
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Chrome,google llc
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Phone Link,Unknown
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Windows Web Experience Pack,Unknown
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,microsoft edge webview2,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Microsoft 365,Unknown
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,support.office.com,Microsoft Corporation
+"7/15/2023 12:00:00 AM +00:00","7/15/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Microsoft Outlook,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,DWM.EXE,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,BlueBubbles,The BlueBubbles Development Team
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Paint,Unknown
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Feedback Hub,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Windows Features,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Phone Link,Unknown
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,CREDENTIALUIBROKER.EXE,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Windows Security,Unknown
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,microsoft office click-to-run client,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/14/2023 12:00:00 AM +00:00","7/14/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/13/2023 12:00:00 AM +00:00","7/13/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/13/2023 12:00:00 AM +00:00","7/13/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/13/2023 12:00:00 AM +00:00","7/13/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/13/2023 12:00:00 AM +00:00","7/13/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/13/2023 12:00:00 AM +00:00","7/13/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/13/2023 12:00:00 AM +00:00","7/13/2023 11:59:59 PM +00:00",,Daily,MSN App News,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Microsoft Office,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Microsoft Outlook,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,CREDENTIALUIBROKER.EXE,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Microsoft Office Click-to-Run,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,microsoft office click-to-run client,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Windows Notepad,Unknown
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/12/2023 12:00:00 AM +00:00","7/12/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Forms,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Office,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,CREDENTIALUIBROKER.EXE,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Excel,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Adobe Acrobat,Adobe Systems
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,microsoft edge webview2,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft 365,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge (Legacy),Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,HelpPane,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,MICROSOFT.WINDOWS.STARTMENUEXPERIENCEHOST,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Windows Notepad,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Windows Web Experience Pack,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Phone Link,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Chrome,google llc
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Word,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Apple Devices Preview,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,MICROSOFTWINDOWS.CLIENT.CBS,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Windows Terminal,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Get Help,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Windows Security,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,systemsettingsadminflows.exe,Unknown
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Outlook,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,blogs.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,answers.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,azure.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,support.office.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,learn.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,answers.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,myaccount.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,prod.support.services.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,MSN App News,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,MSN App,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Teams,Microsoft Corporation
+"7/11/2023 12:00:00 AM +00:00","7/11/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Microsoft Forms,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Microsoft Office,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Microsoft Word,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,developer.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,learn.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,techcommunity.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,myaccount.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,forms.office.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,msrc.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/10/2023 12:00:00 AM +00:00","7/10/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Microsoft Outlook,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Microsoft Forms,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Windows Components,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Microsoft Lists,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,learn.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,azure.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Microsoft Teams,Microsoft Corporation
+"7/9/2023 12:00:00 AM +00:00","7/9/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/8/2023 12:00:00 AM +00:00","7/8/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/8/2023 12:00:00 AM +00:00","7/8/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/8/2023 12:00:00 AM +00:00","7/8/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/8/2023 12:00:00 AM +00:00","7/8/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/7/2023 12:00:00 AM +00:00","7/7/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/6/2023 12:00:00 AM +00:00","7/6/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/5/2023 12:00:00 AM +00:00","7/5/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/4/2023 12:00:00 AM +00:00","7/4/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,info.microsoft.com,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,office.com,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/3/2023 12:00:00 AM +00:00","7/3/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/2/2023 12:00:00 AM +00:00","7/2/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/2/2023 12:00:00 AM +00:00","7/2/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/2/2023 12:00:00 AM +00:00","7/2/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"7/2/2023 12:00:00 AM +00:00","7/2/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"7/1/2023 12:00:00 AM +00:00","7/1/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"7/1/2023 12:00:00 AM +00:00","7/1/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"7/1/2023 12:00:00 AM +00:00","7/1/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/30/2023 12:00:00 AM +00:00","6/30/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/30/2023 12:00:00 AM +00:00","6/30/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/30/2023 12:00:00 AM +00:00","6/30/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/28/2023 12:00:00 AM +00:00","6/28/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/28/2023 12:00:00 AM +00:00","6/28/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"6/28/2023 12:00:00 AM +00:00","6/28/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/28/2023 12:00:00 AM +00:00","6/28/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/28/2023 12:00:00 AM +00:00","6/28/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/27/2023 12:00:00 AM +00:00","6/27/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/27/2023 12:00:00 AM +00:00","6/27/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/27/2023 12:00:00 AM +00:00","6/27/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/27/2023 12:00:00 AM +00:00","6/27/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/26/2023 12:00:00 AM +00:00","6/26/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/26/2023 12:00:00 AM +00:00","6/26/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/26/2023 12:00:00 AM +00:00","6/26/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/26/2023 12:00:00 AM +00:00","6/26/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/25/2023 12:00:00 AM +00:00","6/25/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/24/2023 12:00:00 AM +00:00","6/24/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/21/2023 12:00:00 AM +00:00","6/21/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/21/2023 12:00:00 AM +00:00","6/21/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/21/2023 12:00:00 AM +00:00","6/21/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/21/2023 12:00:00 AM +00:00","6/21/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,Office Shared Components,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,Microsoft Store,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,account.microsoft.com,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,support.microsoft.com,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,www.microsoft.com,Microsoft Corporation
+"6/20/2023 12:00:00 AM +00:00","6/20/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/19/2023 12:00:00 AM +00:00","6/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/19/2023 12:00:00 AM +00:00","6/19/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/19/2023 12:00:00 AM +00:00","6/19/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/19/2023 12:00:00 AM +00:00","6/19/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/19/2023 12:00:00 AM +00:00","6/19/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/18/2023 12:00:00 AM +00:00","6/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/18/2023 12:00:00 AM +00:00","6/18/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/18/2023 12:00:00 AM +00:00","6/18/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/18/2023 12:00:00 AM +00:00","6/18/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/18/2023 12:00:00 AM +00:00","6/18/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/17/2023 12:00:00 AM +00:00","6/17/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/16/2023 12:00:00 AM +00:00","6/16/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/15/2023 12:00:00 AM +00:00","6/15/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/15/2023 12:00:00 AM +00:00","6/15/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/15/2023 12:00:00 AM +00:00","6/15/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/15/2023 12:00:00 AM +00:00","6/15/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/14/2023 12:00:00 AM +00:00","6/14/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/14/2023 12:00:00 AM +00:00","6/14/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/14/2023 12:00:00 AM +00:00","6/14/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/14/2023 12:00:00 AM +00:00","6/14/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/13/2023 12:00:00 AM +00:00","6/13/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/11/2023 12:00:00 AM +00:00","6/11/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/11/2023 12:00:00 AM +00:00","6/11/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/11/2023 12:00:00 AM +00:00","6/11/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/11/2023 12:00:00 AM +00:00","6/11/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/10/2023 12:00:00 AM +00:00","6/10/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/10/2023 12:00:00 AM +00:00","6/10/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/10/2023 12:00:00 AM +00:00","6/10/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/10/2023 12:00:00 AM +00:00","6/10/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/10/2023 12:00:00 AM +00:00","6/10/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/8/2023 12:00:00 AM +00:00","6/8/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/5/2023 12:00:00 AM +00:00","6/5/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/5/2023 12:00:00 AM +00:00","6/5/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/5/2023 12:00:00 AM +00:00","6/5/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/5/2023 12:00:00 AM +00:00","6/5/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"6/3/2023 12:00:00 AM +00:00","6/3/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"6/2/2023 12:00:00 AM +00:00","6/2/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/1/2023 12:00:00 AM +00:00","6/1/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"6/1/2023 12:00:00 AM +00:00","6/1/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"6/1/2023 12:00:00 AM +00:00","6/1/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"6/1/2023 12:00:00 AM +00:00","6/1/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"5/31/2023 12:00:00 AM +00:00","5/31/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"5/31/2023 12:00:00 AM +00:00","5/31/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"5/31/2023 12:00:00 AM +00:00","5/31/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"5/31/2023 12:00:00 AM +00:00","5/31/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"5/31/2023 12:00:00 AM +00:00","5/31/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"5/30/2023 12:00:00 AM +00:00","5/30/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"5/29/2023 12:00:00 AM +00:00","5/29/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"5/27/2023 12:00:00 AM +00:00","5/27/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"5/27/2023 12:00:00 AM +00:00","5/27/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"5/27/2023 12:00:00 AM +00:00","5/27/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"5/27/2023 12:00:00 AM +00:00","5/27/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"5/26/2023 12:00:00 AM +00:00","5/26/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"5/26/2023 12:00:00 AM +00:00","5/26/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"5/26/2023 12:00:00 AM +00:00","5/26/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"5/26/2023 12:00:00 AM +00:00","5/26/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"5/26/2023 12:00:00 AM +00:00","5/26/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"5/26/2023 12:00:00 AM +00:00","5/26/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"5/25/2023 12:00:00 AM +00:00","5/25/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"5/24/2023 12:00:00 AM +00:00","5/24/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"5/24/2023 12:00:00 AM +00:00","5/24/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"5/24/2023 12:00:00 AM +00:00","5/24/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"5/24/2023 12:00:00 AM +00:00","5/24/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"5/23/2023 12:00:00 AM +00:00","5/23/2023 11:59:59 PM +00:00",,Daily,Microsoft Edge,Microsoft Corporation
+"5/23/2023 12:00:00 AM +00:00","5/23/2023 11:59:59 PM +00:00",,Daily,Windows Push Notification Services,Microsoft Corporation
+"5/23/2023 12:00:00 AM +00:00","5/23/2023 11:59:59 PM +00:00",,Daily,OneDrive,Microsoft Corporation
+"5/23/2023 12:00:00 AM +00:00","5/23/2023 11:59:59 PM +00:00",,Daily,MSN Web,Microsoft Corporation
+"5/23/2023 12:00:00 AM +00:00","5/23/2023 11:59:59 PM +00:00",,Daily,Bing,Microsoft Corporation
+"5/22/2023 12:00:00 AM +00:00","5/22/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"5/21/2023 12:00:00 AM +00:00","5/21/2023 11:59:59 PM +00:00",,Daily,Microsoft Cortana and Windows Search,Microsoft Corporation
+"3/28/2022 12:00:00 AM +00:00","3/28/2022 11:59:59 PM +00:00",,Daily,Minecraft for PlayStation,Microsoft Studios
